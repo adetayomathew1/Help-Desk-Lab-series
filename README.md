@@ -26,7 +26,7 @@ This Lab series is designed to:
 
 In order, each lab are steps focuses on specific objectives, tools, and workflows to simulate real-world IT scenarios. Below is the list of labs in the series:
 
-1. [Installing VirtualBox and Server 2022](https://github.com/Simokid/Installing-VirtualBox-and-Server-2022) 
+1. [Installing VirtualBox and Server 2022](https://github.com/adetayomathew1/-Installing-VirtualBox-and-Server-2022)
 2. [Renaming Server 2022 and Installing Active Directory](https://github.com/Simokid/Renaming-Server-2022-and-Installing-Active-Directory/tree/main)
 3. [Active Directory Account Creation, CMD Commands](https://github.com/Simokid/Active-Directory-Account-Creation-CMD-Commands)
 4. [Windows 10, Join PC to Domain (Helpdesk), RSAT Tool, Server Manager](https://github.com/Simokid/Windows-10-Join-PC-to-Domain-Helpdesk-RSAT-Tool-Server-Manager/tree/main)
