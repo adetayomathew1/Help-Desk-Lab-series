@@ -29,7 +29,7 @@ In order, each lab are steps focuses on specific objectives, tools, and workflow
 1. [Installing VirtualBox and Server 2022](https://github.com/adetayomathew1/-Installing-VirtualBox-and-Server-2022)
 2. [Renaming Server 2022 and Installing Active Directory](https://github.com/Simokid/Renaming-Server-2022-and-Installing-Active-Directory/tree/main)
 3. [Active Directory Account Creation, CMD Commands](https://github.com/Simokid/Active-Directory-Account-Creation-CMD-Commands)
-4. [Windows 10, Join PC to Domain (Helpdesk), RSAT Tool, Server Manager](https://github.com/Simokid/Windows-10-Join-PC-to-Domain-Helpdesk-RSAT-Tool-Server-Manager/tree/main)
+4. [Windows 10, Join PC to Domain (Helpdesk), RSAT Tool, Server Manager](https://github.com/adetayomathew1/-Windows-10-Join-PC-to-Domain-Helpdesk-RSAT-Tool-Server-Manager)
 5. [Join Windows 10 to Domain (Local User), Group Policy, RSOP Reports](https://github.com/Simokid/Join-Windows-10-to-Domain-Local-User-Group-Policy-RSOP-Reports/tree/main)
 6. [Common Active Directory Issues, CMD Commands, PC Offline](https://github.com/Simokid/Common-Active-Directory-Issues-CMD-Commands-PC-Offline)
 7. [Security Groups, Mapped Drives, Personal Drives](https://github.com/Simokid/Security-Groups-Mapped-Drives-Personal-Drives)
